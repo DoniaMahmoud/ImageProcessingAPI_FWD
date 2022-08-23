@@ -11,7 +11,7 @@
 ## Endpoints
 ###### http://localhost:3000/ => main page route
 ###### http://localhost:3000/resize => resize images
-###### query params required for resizing:
+## query params required for resizing:
 ###### -width , height , imagename
 ###### -Example => http://localhost:3000/resize/?width=200&height=400&imageName=fjord
 ###### -Image filename must exist in images directory in order to work
